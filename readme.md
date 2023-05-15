@@ -24,7 +24,7 @@ BE : http://github.com
 [pdf로 바로보기](http://github.com)
 
 ## 프로젝트 영상
-<img src="./img/ezen.gif" width="600px" alt="프로젝트작업" />
+<img src="https://github.com/eun00/test/blob/master/img/ezen.gif" width="600px" alt="프로젝트작업" />
 
 # 프로젝트 기능구현
 
