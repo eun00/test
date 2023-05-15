@@ -25,7 +25,7 @@ BE : http://github.com
 
 ## 프로젝트 영상
 <!-- <img src="https://github.com/eun00/test/blob/master/img/ezen.gif" width="600px" alt="프로젝트작업" /> -->
-![영상](./img/ezen.gif)
+![영상](https://github.com/eun00/test/blob/master/img/ezen.gif)
 
 # 프로젝트 기능구현
 
